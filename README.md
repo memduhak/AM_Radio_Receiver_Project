@@ -1,6 +1,6 @@
-Components of Design 
-Antenna: Ferrite rod antenna 
-RF Amplifier: A wide-band low-noise amplifier (LM386). 
+Components of Design
+Antenna: Ferrite rod antenna
+RF Amplifier: A wide-band low-noise amplifier (LM386)
 Mixer: An active mixer IC (NE602)
 Local Oscillator: crystal oscillator
 IF Amplifier: IF amplifier module tuned for 455 kHz (SA612)
